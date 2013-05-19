@@ -1,0 +1,3 @@
+<div class="my clickable-1">
+		Hello world! from Screen 7
+</div>

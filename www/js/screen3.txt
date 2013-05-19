@@ -1,0 +1,9 @@
+<div style="width:100%;height:100%"> 
+		
+	<div id="canvasDiv" style="width:80%;height:80%">
+      <canvas id="canvasSignature" width="800px" height="800px"></canvas>
+	</div>
+
+</div>
+
+

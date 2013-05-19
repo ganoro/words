@@ -1,0 +1,3 @@
+<div class="content">
+	<div id="board-game"></div>
+</div>

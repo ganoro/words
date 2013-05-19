@@ -1,0 +1,19 @@
+<div>
+	Hello world! from Screen 1<br/>
+	
+	<div class="letterable-2" style="position:absolute; left:20%; top:120px;">
+		<img src="img/button.png" />
+	</div>
+
+	<div class="clickable-3" style="position:absolute; left:60%; top:120px">
+		<img src="img/button.png" />
+	</div>	
+
+	<div class="clickable-4" style="position:absolute; left:20%; top:500px;">
+		<img src="img/button.png" />
+	</div>	
+
+	<div class="clickable-5" style="position:absolute; left:60%; top:500px;">
+		<img src="img/button.png" />
+	</div>	
+</div>

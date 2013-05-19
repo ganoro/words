@@ -20,6 +20,9 @@
     -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
 }
 
+@font-face { font-family: "Coco"; src: url("coco.ttf");}
+@font-face {font-family: "Coco Light";src: url("coco_light.ttf");}
+
 body {
     -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
     -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
@@ -112,4 +115,9 @@ h1 {
 .blink {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
+}
+
+.caption {
+    font-family: "Coco Light", serif; 
+    font-size: 200%;
 }
