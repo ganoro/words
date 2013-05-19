@@ -1,8 +1,8 @@
 <div>
 
-	<div class="letter2"></div>	
+	<div class="elements"></div>	
 
-<div class="caption" style="position:absolute;top : 80%; left: 20%">
+<div class="caption" style="position:absolute;top : 620px; left: 20%">
 בִּרְחוֹב בָּטָטָה – בַּבּוּנִים בָּנוּ בָּתֵּי בֹּץ
 <br>
 בִּשְׁבִיל הַחֲבֵרִים, שֶׁיּוּכְלוּ שָׁם לִרְבֹּץ.

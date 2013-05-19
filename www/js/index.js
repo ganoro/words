@@ -64,8 +64,8 @@ var app = {
         this.screen6 = this.loadAssetFile('screen6.txt');
         this.screen7 = this.loadAssetFile('screen7.txt');
         
-        this.bodyImages = [ 'img/flower.jpg', 'img/back2.jpg', 'img/flower.jpg', 'img/flower.jpg', 'img/flower.jpg', 'img/flower.jpg',  'img/flower.jpg' ];
-        this.letterBodyImages = [ 'img/flower.jpg', 'img/back2.jpg', 'img/flower.jpg', 'img/flower.jpg', 'img/flower.jpg', 'img/flower.jpg',  'img/flower.jpg' ];
+        this.bodyImages = [ 'img/flower.jpg', 'img/letter2.jpg', 'img/flower.jpg', 'img/flower.jpg', 'img/flower.jpg', 'img/flower.jpg',  'img/flower.jpg' ];
+        this.letterBodyImages = [ 'img/flower.jpg', 'img/letter2.jpg', 'img/flower.jpg', 'img/flower.jpg', 'img/flower.jpg', 'img/flower.jpg',  'img/flower.jpg' ];
 
         page('#/letter/:id', app.letterShow);
         page('#/screen/:id', app.screenShow);
@@ -175,7 +175,7 @@ var app = {
 
 
     executeLetter2 : function() {
-        var p = new B($(".letter2"));
+        var p = new Letter2($(".elements"));
     },
 
     paitingPage : function() {

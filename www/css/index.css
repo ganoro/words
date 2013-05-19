@@ -119,5 +119,6 @@ h1 {
 
 .caption {
     font-family: "Coco Light", serif; 
-    font-size: 200%;
+    font-size: 50px;
+    text-align: right;
 }
